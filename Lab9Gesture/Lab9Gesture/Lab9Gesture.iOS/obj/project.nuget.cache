@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzS8TyWESJyu+XRcF8J3ONlsYb5mSQytf83kMcFixFQ8fgzPqJo6bb/XICAy4f3KssnSBbjER5SHEDEWZDByng==",
+  "success": true,
+  "projectFilePath": "D:\\TECSUP\\5Ciclo\\Multiplataforma\\Modulo3\\Lab9Gesture\\Lab9Gesture\\Lab9Gesture.iOS\\Lab9Gesture.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
